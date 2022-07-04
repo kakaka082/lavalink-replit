@@ -1,5 +1,5 @@
 # Lavalink on Replit
-[![Run on Repl.it](https://repl.it/badge/github/kakaka082/lavalink-replit)](https://repl.it/github/kakaka0820/lavalink-replit)
+[![Run on Repl.it](https://repl.it/badge/github/kakaka082/lavalink-replit)](https://repl.it/github/kakaka082/lavalink-replit)
 
 
 
